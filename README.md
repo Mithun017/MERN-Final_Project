@@ -1,8 +1,3 @@
-# MERN-Final_Project
-
-
-
-
 # Virtual Classroom
 
 ## Description
